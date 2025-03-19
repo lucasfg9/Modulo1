@@ -1,2 +1,7 @@
 # Modulo1
-Primer modulo de técnicas y herramientas modernas 
+Técnicas y herramientas modernas
+Primer modulo
+* Lucas Fernandez G. 12637
+  
+* Martiniano Gimenez C. 
+
