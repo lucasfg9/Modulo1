@@ -6,3 +6,5 @@ Primer modulo
 * Martiniano Gimenez C. 13745
 
 * Fernando Frías 12403
+
+* Tomás Manganelli 12799
