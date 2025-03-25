@@ -3,6 +3,6 @@ Técnicas y herramientas modernas
 Primer modulo
 * Lucas Fernandez G. 12637
   
-* Martiniano Gimenez C. 
+* Martiniano Gimenez C. 13745
 
 * Fernando Frías 12403
